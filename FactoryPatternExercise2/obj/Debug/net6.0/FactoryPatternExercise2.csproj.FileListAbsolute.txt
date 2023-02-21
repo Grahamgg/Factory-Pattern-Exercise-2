@@ -1,0 +1,5 @@
+C:\Users\graha\Desktop\repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graha\Desktop\repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\graha\Desktop\repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\graha\Desktop\repos\Factory-Pattern-Exercise-2\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
